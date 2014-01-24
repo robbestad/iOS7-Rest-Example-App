@@ -1,4 +1,4 @@
-iOS-Rest-Tutorial
+iOS7 Rest Example App
 =================
 
 Consumes a REST API in iOS7 and populates a table view with the results
