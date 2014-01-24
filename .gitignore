@@ -1,2 +1,7 @@
-.idea
 version_hash.txt
+vendor
+composer.lock
+reports
+.DS_Store
+.idea/
+temp
