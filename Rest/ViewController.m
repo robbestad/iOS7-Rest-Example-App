@@ -41,7 +41,7 @@
                                    }
 
 
-                                                                      int iterator = 0;
+                                   int iterator = 0;
                                    for (id key in news) {
                                        [_newsDataForTable insertObject:key[@"title"] atIndex:iterator];
                                        iterator++;

@@ -21,8 +21,8 @@
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <connections>
-                                    <outlet property="dataSource" destination="8bC-Xf-vdC" id="aLO-X9-ki5"/>
-                                    <outlet property="delegate" destination="8bC-Xf-vdC" id="VNx-9W-ywE"/>
+                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="Oge-24-wlt"/>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="jbz-CH-diY"/>
                                 </connections>
                             </tableView>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="REST TUTORIAL" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ks3-40-lJI">
